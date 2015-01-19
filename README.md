@@ -1,0 +1,2 @@
+# User-Level-Thread-Library
+The program implements a user level thread library for Linux in C with pre-emption, locks, conditions, semaphores, scheduler, timers, multi-level priority queue ensuring synchronization in real world programs besides several other features making it a complete autonomous library for thread creation and management. Sample test programs utilizing the thread library are also included with the design document and code.
