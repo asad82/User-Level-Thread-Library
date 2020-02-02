@@ -316,3 +316,11 @@ stack space for some new thread the user wants to run. So this feature enables t
 user of this thread system know in advance the stack space that this application
 can get from the OS so if its not available then do not create any thread protecting
 a crash in the middle of the execution and losing critical information.
+
+---------------------------------------------------------------------------
+Copyright 2004 released under license for Research and Educational use only
+For Commercial use permission must be sought from the developer
+
+Asad Ali
+Website: https://sites.google.com/site/asad82
+Email:   asad_82@yahoo.com
